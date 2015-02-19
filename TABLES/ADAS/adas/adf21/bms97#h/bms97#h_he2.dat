@@ -1,0 +1,249 @@
+    2 /SCREF=1.489E-07 /SPEC=HE /DATE=19/03/97 /CODE=ADAS310
+--------------------------------------------------------------------------------
+   25   25 /TREF=2.000E+03
+--------------------------------------------------------------------------------
+ 5.000E+03 1.000E+04 1.500E+04 2.000E+04 2.500E+04 3.000E+04 3.500E+04 4.000E+04
+ 4.500E+04 5.000E+04 5.500E+04 6.000E+04 6.500E+04 7.000E+04 7.500E+04 8.000E+04
+ 8.500E+04 9.000E+04 9.500E+04 1.000E+05 1.050E+05 1.100E+05 1.150E+05 1.200E+05
+ 1.250E+05
+ 1.000E+12 2.000E+12 3.000E+12 5.000E+12 6.000E+12 7.000E+12 8.000E+12 9.000E+12
+ 1.000E+13 2.000E+13 3.000E+13 5.000E+13 6.000E+13 7.000E+13 8.000E+13 9.000E+13
+ 1.000E+14 2.000E+14 3.000E+14 5.000E+14 6.000E+14 7.000E+14 8.000E+14 9.000E+14
+ 1.000E+15
+--------------------------------------------------------------------------------
+ 7.810E-08 1.099E-07 1.270E-07 1.353E-07 1.394E-07 1.413E-07 1.416E-07 1.406E-07
+ 1.388E-07 1.365E-07 1.340E-07 1.316E-07 1.294E-07 1.272E-07 1.250E-07 1.229E-07
+ 1.209E-07 1.191E-07 1.174E-07 1.159E-07 1.145E-07 1.132E-07 1.120E-07 1.110E-07
+ 1.101E-07
+ 7.865E-08 1.105E-07 1.276E-07 1.360E-07 1.401E-07 1.422E-07 1.425E-07 1.416E-07
+ 1.399E-07 1.377E-07 1.353E-07 1.330E-07 1.308E-07 1.286E-07 1.265E-07 1.244E-07
+ 1.225E-07 1.206E-07 1.190E-07 1.175E-07 1.161E-07 1.148E-07 1.137E-07 1.127E-07
+ 1.118E-07
+ 7.904E-08 1.109E-07 1.281E-07 1.366E-07 1.407E-07 1.428E-07 1.432E-07 1.424E-07
+ 1.407E-07 1.386E-07 1.362E-07 1.340E-07 1.318E-07 1.297E-07 1.276E-07 1.256E-07
+ 1.236E-07 1.219E-07 1.202E-07 1.187E-07 1.174E-07 1.161E-07 1.150E-07 1.140E-07
+ 1.131E-07
+ 7.962E-08 1.116E-07 1.288E-07 1.373E-07 1.416E-07 1.438E-07 1.443E-07 1.436E-07
+ 1.420E-07 1.399E-07 1.377E-07 1.355E-07 1.334E-07 1.314E-07 1.294E-07 1.274E-07
+ 1.255E-07 1.237E-07 1.222E-07 1.207E-07 1.194E-07 1.181E-07 1.170E-07 1.160E-07
+ 1.152E-07
+ 7.985E-08 1.118E-07 1.291E-07 1.376E-07 1.419E-07 1.442E-07 1.447E-07 1.441E-07
+ 1.425E-07 1.405E-07 1.383E-07 1.362E-07 1.341E-07 1.321E-07 1.301E-07 1.281E-07
+ 1.263E-07 1.245E-07 1.230E-07 1.215E-07 1.202E-07 1.190E-07 1.179E-07 1.169E-07
+ 1.160E-07
+ 8.006E-08 1.121E-07 1.293E-07 1.379E-07 1.423E-07 1.446E-07 1.451E-07 1.445E-07
+ 1.430E-07 1.410E-07 1.389E-07 1.367E-07 1.347E-07 1.328E-07 1.308E-07 1.288E-07
+ 1.270E-07 1.253E-07 1.237E-07 1.223E-07 1.210E-07 1.198E-07 1.187E-07 1.177E-07
+ 1.168E-07
+ 8.026E-08 1.123E-07 1.296E-07 1.382E-07 1.425E-07 1.449E-07 1.455E-07 1.449E-07
+ 1.435E-07 1.415E-07 1.394E-07 1.373E-07 1.353E-07 1.333E-07 1.314E-07 1.295E-07
+ 1.276E-07 1.259E-07 1.244E-07 1.230E-07 1.217E-07 1.205E-07 1.194E-07 1.184E-07
+ 1.176E-07
+ 8.043E-08 1.125E-07 1.298E-07 1.384E-07 1.428E-07 1.452E-07 1.459E-07 1.453E-07
+ 1.439E-07 1.420E-07 1.398E-07 1.378E-07 1.358E-07 1.339E-07 1.319E-07 1.300E-07
+ 1.282E-07 1.265E-07 1.250E-07 1.236E-07 1.223E-07 1.212E-07 1.201E-07 1.191E-07
+ 1.183E-07
+ 8.060E-08 1.127E-07 1.300E-07 1.387E-07 1.431E-07 1.455E-07 1.462E-07 1.457E-07
+ 1.442E-07 1.424E-07 1.403E-07 1.383E-07 1.363E-07 1.344E-07 1.325E-07 1.306E-07
+ 1.288E-07 1.271E-07 1.256E-07 1.242E-07 1.230E-07 1.218E-07 1.207E-07 1.198E-07
+ 1.189E-07
+ 8.185E-08 1.142E-07 1.316E-07 1.405E-07 1.450E-07 1.477E-07 1.486E-07 1.484E-07
+ 1.472E-07 1.456E-07 1.437E-07 1.419E-07 1.401E-07 1.384E-07 1.366E-07 1.349E-07
+ 1.332E-07 1.316E-07 1.302E-07 1.290E-07 1.278E-07 1.267E-07 1.257E-07 1.248E-07
+ 1.240E-07
+ 8.274E-08 1.153E-07 1.328E-07 1.417E-07 1.465E-07 1.493E-07 1.504E-07 1.503E-07
+ 1.494E-07 1.479E-07 1.462E-07 1.445E-07 1.429E-07 1.413E-07 1.396E-07 1.380E-07
+ 1.364E-07 1.349E-07 1.336E-07 1.324E-07 1.313E-07 1.302E-07 1.293E-07 1.285E-07
+ 1.278E-07
+ 8.409E-08 1.169E-07 1.346E-07 1.437E-07 1.487E-07 1.517E-07 1.531E-07 1.534E-07
+ 1.527E-07 1.515E-07 1.500E-07 1.486E-07 1.472E-07 1.457E-07 1.442E-07 1.427E-07
+ 1.413E-07 1.399E-07 1.387E-07 1.376E-07 1.366E-07 1.357E-07 1.349E-07 1.341E-07
+ 1.335E-07
+ 8.464E-08 1.176E-07 1.353E-07 1.445E-07 1.496E-07 1.528E-07 1.543E-07 1.546E-07
+ 1.540E-07 1.529E-07 1.516E-07 1.503E-07 1.489E-07 1.476E-07 1.461E-07 1.447E-07
+ 1.433E-07 1.420E-07 1.409E-07 1.398E-07 1.388E-07 1.380E-07 1.372E-07 1.365E-07
+ 1.359E-07
+ 8.515E-08 1.182E-07 1.360E-07 1.453E-07 1.504E-07 1.537E-07 1.553E-07 1.557E-07
+ 1.553E-07 1.543E-07 1.531E-07 1.518E-07 1.505E-07 1.492E-07 1.479E-07 1.465E-07
+ 1.451E-07 1.439E-07 1.428E-07 1.418E-07 1.409E-07 1.400E-07 1.393E-07 1.386E-07
+ 1.380E-07
+ 8.561E-08 1.188E-07 1.366E-07 1.459E-07 1.512E-07 1.545E-07 1.563E-07 1.568E-07
+ 1.564E-07 1.555E-07 1.544E-07 1.532E-07 1.520E-07 1.508E-07 1.494E-07 1.481E-07
+ 1.468E-07 1.456E-07 1.446E-07 1.436E-07 1.427E-07 1.419E-07 1.412E-07 1.406E-07
+ 1.400E-07
+ 8.605E-08 1.193E-07 1.372E-07 1.466E-07 1.519E-07 1.553E-07 1.571E-07 1.578E-07
+ 1.575E-07 1.567E-07 1.556E-07 1.545E-07 1.534E-07 1.522E-07 1.509E-07 1.496E-07
+ 1.483E-07 1.472E-07 1.462E-07 1.453E-07 1.444E-07 1.436E-07 1.429E-07 1.424E-07
+ 1.419E-07
+ 8.646E-08 1.198E-07 1.377E-07 1.471E-07 1.525E-07 1.561E-07 1.580E-07 1.587E-07
+ 1.585E-07 1.577E-07 1.567E-07 1.557E-07 1.546E-07 1.535E-07 1.523E-07 1.510E-07
+ 1.498E-07 1.487E-07 1.477E-07 1.468E-07 1.460E-07 1.452E-07 1.446E-07 1.440E-07
+ 1.436E-07
+ 8.957E-08 1.234E-07 1.416E-07 1.514E-07 1.573E-07 1.614E-07 1.640E-07 1.653E-07
+ 1.657E-07 1.655E-07 1.651E-07 1.645E-07 1.639E-07 1.631E-07 1.622E-07 1.613E-07
+ 1.603E-07 1.595E-07 1.588E-07 1.581E-07 1.575E-07 1.570E-07 1.566E-07 1.563E-07
+ 1.561E-07
+ 9.167E-08 1.257E-07 1.440E-07 1.540E-07 1.603E-07 1.648E-07 1.677E-07 1.694E-07
+ 1.702E-07 1.704E-07 1.703E-07 1.700E-07 1.696E-07 1.691E-07 1.684E-07 1.676E-07
+ 1.668E-07 1.662E-07 1.656E-07 1.651E-07 1.647E-07 1.644E-07 1.641E-07 1.640E-07
+ 1.639E-07
+ 9.435E-08 1.284E-07 1.469E-07 1.572E-07 1.638E-07 1.688E-07 1.722E-07 1.744E-07
+ 1.756E-07 1.762E-07 1.764E-07 1.765E-07 1.764E-07 1.761E-07 1.757E-07 1.751E-07
+ 1.746E-07 1.741E-07 1.737E-07 1.734E-07 1.732E-07 1.731E-07 1.730E-07 1.730E-07
+ 1.732E-07
+ 9.526E-08 1.293E-07 1.478E-07 1.582E-07 1.650E-07 1.701E-07 1.737E-07 1.760E-07
+ 1.773E-07 1.781E-07 1.784E-07 1.786E-07 1.786E-07 1.784E-07 1.780E-07 1.775E-07
+ 1.770E-07 1.766E-07 1.763E-07 1.761E-07 1.760E-07 1.759E-07 1.759E-07 1.760E-07
+ 1.762E-07
+ 9.601E-08 1.300E-07 1.485E-07 1.590E-07 1.659E-07 1.712E-07 1.748E-07 1.773E-07
+ 1.787E-07 1.795E-07 1.800E-07 1.803E-07 1.803E-07 1.802E-07 1.799E-07 1.794E-07
+ 1.790E-07 1.786E-07 1.784E-07 1.782E-07 1.781E-07 1.781E-07 1.782E-07 1.783E-07
+ 1.785E-07
+ 9.662E-08 1.306E-07 1.491E-07 1.597E-07 1.666E-07 1.720E-07 1.758E-07 1.783E-07
+ 1.798E-07 1.807E-07 1.813E-07 1.816E-07 1.817E-07 1.816E-07 1.813E-07 1.810E-07
+ 1.806E-07 1.803E-07 1.801E-07 1.799E-07 1.799E-07 1.799E-07 1.800E-07 1.802E-07
+ 1.804E-07
+ 9.713E-08 1.311E-07 1.496E-07 1.602E-07 1.672E-07 1.727E-07 1.765E-07 1.791E-07
+ 1.807E-07 1.817E-07 1.823E-07 1.827E-07 1.829E-07 1.828E-07 1.826E-07 1.822E-07
+ 1.819E-07 1.816E-07 1.814E-07 1.813E-07 1.813E-07 1.814E-07 1.815E-07 1.817E-07
+ 1.820E-07
+ 9.757E-08 1.315E-07 1.500E-07 1.607E-07 1.678E-07 1.733E-07 1.772E-07 1.798E-07
+ 1.815E-07 1.825E-07 1.832E-07 1.837E-07 1.839E-07 1.838E-07 1.836E-07 1.833E-07
+ 1.830E-07 1.827E-07 1.826E-07 1.825E-07 1.825E-07 1.826E-07 1.828E-07 1.830E-07
+ 1.834E-07
+--------------------------------------------------------------------------------
+   20 /EREF=6.500E+04 /NREF=6.000E+13
+--------------------------------------------------------------------------------
+ 1.000E+02 2.000E+02 3.000E+02 5.000E+02 6.000E+02 7.000E+02 8.000E+02 8.966E+02
+ 1.000E+03 2.000E+03 3.000E+03 5.000E+03 6.000E+03 7.000E+03 8.000E+03 8.966E+03
+ 1.000E+04 2.000E+04 3.000E+04 5.000E+04
+--------------------------------------------------------------------------------
+ 1.719E-07 1.709E-07 1.682E-07 1.635E-07 1.616E-07 1.599E-07 1.585E-07 1.572E-07
+ 1.561E-07 1.489E-07 1.452E-07 1.409E-07 1.395E-07 1.383E-07 1.373E-07 1.364E-07
+ 1.356E-07 1.309E-07 1.281E-07 1.243E-07
+--------------------------------------------------------------------------------
+C
+C              WORKING ACCURACY OF THE EFFECTIVE BEAM 
+C              STOPPING COEFFICIENT AT THE REFERENCE       REFERENCE         REFERENCE       REFERENCE
+C              ENERGY, DENSITY AND TEMPERATURE             ENERGY            DENSITY         TEMPERATURE
+C              ---------------------------------------    ---------          ---------       -----------
+C
+C                         +/- 9.40%                        6.50D+04 keV/amu  6.00D+13 cm-3   2.00D+03 eV
+C
+C              WORKING ACCURACY OF THE EFFECTIVE BEAM STOPPING               ELECTRON        REFERENCE
+C              COEFFICIENT AT THE REFERENCE TEMPERATURE                      DENSITY         TEMPERATURE
+C             ------------------------------------------------               ------------    -----------
+C
+C   +/- 2.83% @ 15 keV/amu +/- 2.12% @ 35 keV/amu +/- 9.83% @ 70 keV/amu     1.00D+12 cm-3   2.00D+03 eV
+C   +/- 2.90% @ 15 keV/amu +/- 2.04% @ 35 keV/amu +/-10.11% @ 70 keV/amu     2.00D+12 cm-3   2.00D+03 eV
+C   +/- 2.89% @ 15 keV/amu +/- 1.96% @ 35 keV/amu +/-10.25% @ 70 keV/amu     3.00D+12 cm-3   2.00D+03 eV
+C   +/- 2.95% @ 15 keV/amu +/- 2.15% @ 35 keV/amu +/-10.43% @ 70 keV/amu     5.00D+12 cm-3   2.00D+03 eV
+C   +/- 2.94% @ 15 keV/amu +/- 2.28% @ 35 keV/amu +/-10.45% @ 70 keV/amu     6.00D+12 cm-3   2.00D+03 eV
+C   +/- 2.94% @ 15 keV/amu +/- 2.27% @ 35 keV/amu +/-10.47% @ 70 keV/amu     7.00D+12 cm-3   2.00D+03 eV
+C   +/- 2.93% @ 15 keV/amu +/- 2.34% @ 35 keV/amu +/-10.58% @ 70 keV/amu     8.00D+12 cm-3   2.00D+03 eV
+C   +/- 2.93% @ 15 keV/amu +/- 2.33% @ 35 keV/amu +/-10.53% @ 70 keV/amu     9.00D+12 cm-3   2.00D+03 eV
+C   +/- 2.92% @ 15 keV/amu +/- 2.33% @ 35 keV/amu +/-10.57% @ 70 keV/amu     1.00D+13 cm-3   2.00D+03 eV
+C   +/- 2.96% @ 15 keV/amu +/- 2.56% @ 35 keV/amu +/-10.55% @ 70 keV/amu     2.00D+13 cm-3   2.00D+03 eV
+C   +/- 2.94% @ 15 keV/amu +/- 2.66% @ 35 keV/amu +/-10.47% @ 70 keV/amu     3.00D+13 cm-3   2.00D+03 eV
+C   +/- 2.82% @ 15 keV/amu +/- 2.74% @ 35 keV/amu +/-10.36% @ 70 keV/amu     5.00D+13 cm-3   2.00D+03 eV
+C   +/- 2.88% @ 15 keV/amu +/- 2.66% @ 35 keV/amu +/-10.23% @ 70 keV/amu     6.00D+13 cm-3   2.00D+03 eV
+C   +/- 2.87% @ 15 keV/amu +/- 2.70% @ 35 keV/amu +/-10.25% @ 70 keV/amu     7.00D+13 cm-3   2.00D+03 eV
+C   +/- 2.86% @ 15 keV/amu +/- 2.69% @ 35 keV/amu +/-10.08% @ 70 keV/amu     8.00D+13 cm-3   2.00D+03 eV
+C   +/- 2.77% @ 15 keV/amu +/- 2.67% @ 35 keV/amu +/-10.05% @ 70 keV/amu     9.00D+13 cm-3   2.00D+03 eV
+C   +/- 2.83% @ 15 keV/amu +/- 2.66% @ 35 keV/amu +/- 9.97% @ 70 keV/amu     1.00D+14 cm-3   2.00D+03 eV
+C   +/- 2.68% @ 15 keV/amu +/- 2.56% @ 35 keV/amu +/- 9.50% @ 70 keV/amu     2.00D+14 cm-3   2.00D+03 eV
+C   +/- 2.64% @ 15 keV/amu +/- 2.56% @ 35 keV/amu +/- 9.23% @ 70 keV/amu     3.00D+14 cm-3   2.00D+03 eV
+C   +/- 2.59% @ 15 keV/amu +/- 2.44% @ 35 keV/amu +/- 8.92% @ 70 keV/amu     5.00D+14 cm-3   2.00D+03 eV
+C   +/- 2.57% @ 15 keV/amu +/- 2.42% @ 35 keV/amu +/- 8.80% @ 70 keV/amu     6.00D+14 cm-3   2.00D+03 eV
+C   +/- 2.56% @ 15 keV/amu +/- 2.40% @ 35 keV/amu +/- 8.77% @ 70 keV/amu     7.00D+14 cm-3   2.00D+03 eV
+C   +/- 2.55% @ 15 keV/amu +/- 2.33% @ 35 keV/amu +/- 8.70% @ 70 keV/amu     8.00D+14 cm-3   2.00D+03 eV
+C   +/- 2.54% @ 15 keV/amu +/- 2.38% @ 35 keV/amu +/- 8.64% @ 70 keV/amu     9.00D+14 cm-3   2.00D+03 eV
+C   +/- 2.53% @ 15 keV/amu +/- 2.37% @ 35 keV/amu +/- 8.65% @ 70 keV/amu     1.00D+15 cm-3   2.00D+03 eV
+C
+C              WORKING ACCURACY OF THE EFFECTIVE BEAM 
+C              STOPPING COEFFICIENT AT THE REFERENCE       REFERENCE         REFERENCE
+C              ENERGY AND DENSITY                          ENERGY            DENSITY         TEMPERATURE
+C              ---------------------------------------    ---------          ---------       -----------
+C
+C                         +/- 8.09%                        6.50D+04 keV/amu  6.00D+13 cm-3   1.00D+02 eV
+C                         +/- 8.07%                        6.50D+04 keV/amu  6.00D+13 cm-3   2.00D+02 eV
+C                         +/- 8.20%                        6.50D+04 keV/amu  6.00D+13 cm-3   3.00D+02 eV
+C                         +/- 8.44%                        6.50D+04 keV/amu  6.00D+13 cm-3   5.00D+02 eV
+C                         +/- 8.54%                        6.50D+04 keV/amu  6.00D+13 cm-3   6.00D+02 eV
+C                         +/- 8.69%                        6.50D+04 keV/amu  6.00D+13 cm-3   7.00D+02 eV
+C                         +/- 8.71%                        6.50D+04 keV/amu  6.00D+13 cm-3   8.00D+02 eV
+C                         +/- 8.84%                        6.50D+04 keV/amu  6.00D+13 cm-3   8.97D+02 eV
+C                         +/- 8.84%                        6.50D+04 keV/amu  6.00D+13 cm-3   1.00D+03 eV
+C                         +/- 9.40%                        6.50D+04 keV/amu  6.00D+13 cm-3   2.00D+03 eV
+C                         +/- 9.71%                        6.50D+04 keV/amu  6.00D+13 cm-3   3.00D+03 eV
+C                         +/-10.01%                        6.50D+04 keV/amu  6.00D+13 cm-3   5.00D+03 eV
+C                         +/-10.11%                        6.50D+04 keV/amu  6.00D+13 cm-3   6.00D+03 eV
+C                         +/-10.27%                        6.50D+04 keV/amu  6.00D+13 cm-3   7.00D+03 eV
+C                         +/-10.34%                        6.50D+04 keV/amu  6.00D+13 cm-3   8.00D+03 eV
+C                         +/-10.48%                        6.50D+04 keV/amu  6.00D+13 cm-3   8.97D+03 eV
+C                         +/-10.62%                        6.50D+04 keV/amu  6.00D+13 cm-3   1.00D+04 eV
+C                         +/-10.92%                        6.50D+04 keV/amu  6.00D+13 cm-3   2.00D+04 eV
+C                         +/-11.16%                        6.50D+04 keV/amu  6.00D+13 cm-3   3.00D+04 eV
+C                         +/-11.34%                        6.50D+04 keV/amu  6.00D+13 cm-3   5.00D+04 eV
+C
+C
+C
+C
+C	NOTE : Working accuracy
+C
+C
+C	The  working  accuracy  was  obtained by  calculating  the effective 
+C	beam stopping coefficient via ADAS310 using three different ion/atom
+C	collision cross-section databases,  i.e. ADF02  type files. An ADF02
+C	type file contains  indexed entries  of key ion/atom reaction cross-
+C	sections with  H and other species. The first detailed assessment of 
+C	ion/atom cross section data for beam stopping was completed  at  JET 
+C	in 1989 ( small corrections and extensions were made to the file up
+C	to 1993 ) . This file was originally saved /adas/adf02/ionatom/h.dat 
+C	but was later reformatted and saved as /adf02/sia#h/sia#h_rfm#h.dat. 
+C	Guided by  experimental  observations at JET  and the  lack  of high 
+C	quality CCAO calculations when the  JET 1989  data set was compiled, 
+C	the cross-sections of the JET 1989  data  set  was considered to be 
+C	some what under-estimated.  A  new review of all  ion/atom collision 
+C	data was carried out. The only substantial  contribution  found  was 
+C	that of the  close  coupled  atomic  orbital (CCAO)  calculations of 
+C	Toshima & Tawara [1]. This  data  together  with the data of Janev & 
+C	Smith [2]  was  used  to  create  yet  another  ADF02  type  file,
+C	sia#h_tosh#h.dat.However,the CCAO calculations of Toshima & Tawara[1] 
+C	only include states up to n=4 and so some over-estimation is present,
+C	particularly for ion  impact  ionisation from n=3 and n=4 shell. The 
+C	cross-sections contained in this  data set are considered to be over-
+C	estimated.  A  comparative  data  set  was  constructed  which  was a 
+C	compromise between both data sets,this is what is called the JET 1997
+C	review data set, sia#h_j97#h.dat. The  JET  1997  review  data is the 
+C	preferred data set. The  working  accuracy  was  obtained  by running 
+C	ADAS310 using  each data set.  The  results  from using  the JET 1997 
+C	review data  is  taken  as  the most accurate  value.The results from 
+C	using the JET 1989  data  set  are  used to obtain a lower  limit.The 
+C	results from the Toshima & Tawara data set are used to obtain an upper
+C	limit. Using the values of  the  lower  and  upper limit a percentage 
+C	difference is used to describe the MAXIMUM deviation from the results
+C	obtained using the JET 1997 review data. 
+C
+C
+C	REFERENCES
+C
+C	[1] Toshima,N. & Tawara,H.,NIFS-DATA-26,July 1995.
+C	[2] Janev,R.K.& Smith,J.J.,J.Nucl.Fusion(Supplement),Vol.4,1993.
+C
+C
+C
+C
+C	CONTACT : HARVEY ANDERSON
+C		  UNIVERSITY OF STRATHCLYDE
+C		  ANDERSON@CHAMBA.PHYS.STRATH.AC.UK
+C	  
+C	DATE    : 08/07/97
+C
+C
+C-------------------------------------------------------------------------------
+
+ 
+C---------------------------------------------------------------------------------
+C ADAS ADF21 DATA - SCCS info: @(#)$Header: /u/xshare/Attic/repos/codesys/source/adas/data/adf21/bms97#h/bms97#h_he2.dat,v 1.1 2009-07-30 05:08:07 Marina Gorelenkova Exp $ Date $Date: 2009-07-30 05:08:07 $
+C---------------------------------------------------------------------------------

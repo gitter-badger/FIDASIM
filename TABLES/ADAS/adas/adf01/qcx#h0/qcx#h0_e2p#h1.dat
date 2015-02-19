@@ -1,0 +1,95 @@
+H + 1     H + 0 (1)  / receiver, donor (donor state index)    / LPARMS /
+    9                / number of energies
+    1                / nmin
+    3                / nmax
+               1.00     1.50     2.00     3.00     5.00     7.00    10.00    15.00    20.00 / energies         (keV/amu)
+               9.80     9.30     8.95     8.40     7.65     7.05     6.40     5.45     4.75 / alpha
+                  7        7        7        7        7        7        7        7        7 / lforma
+           1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 / xlcuta
+           9.20D-01 9.70D-01 9.80D-01 1.00D+00 1.00D+00 1.00D+00 9.70D-01 9.20D-01 8.80D-01 / pl2a
+           1.50D-01 2.00D-01 2.40D-01 2.90D-01 3.40D-01 4.00D-01 4.60D-01 5.60D-01 6.60D-01 / pl3a
+           7.52D-15 7.60D-15 7.60D-15 7.60D-15 7.49D-15 7.20D-15 6.80D-15 6.05D-15 5.36D-15 / total xsects.    (cm2)
+  n  l  m                                                                                   / partial xsects.  (cm2)
+  1        0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00
+  1  0     0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00 0.00D+00
+  2        4.74D-15 4.79D-15 4.79D-15 4.64D-15 4.42D-15 3.74D-15 3.06D-15 2.42D-15 2.25D-15
+  2  0     1.26D-15 1.23D-15 1.22D-15 1.16D-15 1.11D-15 9.35D-16 7.84D-16 6.46D-16 6.20D-16
+  2  1     3.48D-15 3.56D-15 3.57D-15 3.48D-15 3.32D-15 2.81D-15 2.28D-15 1.77D-15 1.63D-15
+  3        1.35D-15 1.37D-15 1.37D-15 1.44D-15 1.57D-15 1.73D-15 1.90D-15 1.82D-15 1.55D-15
+  3  0     2.21D-16 2.18D-16 2.19D-16 2.31D-16 2.56D-16 2.88D-16 3.31D-16 3.42D-16 3.11D-16
+  3  1     6.07D-16 6.33D-16 6.44D-16 6.92D-16 7.68D-16 8.63D-16 9.62D-16 9.40D-16 8.17D-16
+  3  2     5.22D-16 5.19D-16 5.07D-16 5.18D-16 5.46D-16 5.79D-16 6.07D-16 5.37D-16 4.22D-16
+    9                / number of energies
+    1                / nmin
+    3                / nmax
+              30.00    50.00    70.00   100.00   150.00   200.00   300.00   500.00   700.00 / energies         (keV/amu)
+               3.73     3.00     2.82     2.77     2.79     2.81     2.85     2.90     2.91 / alpha
+                  7        7        7        7        7        7        7        7        7 / lforma
+           1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 1.00D+00 / xlcuta
+           7.90D-01 6.70D-01 5.70D-01 4.30D-01 2.70D-01 8.00D-02-1.80D-01-4.90D-01-7.00D-01 / pl2a
+           8.10D-01 1.06D+00 1.21D+00 1.37D+00 1.49D+00 1.60D+00 1.70D+00 1.77D+00 1.78D+00 / pl3a
+           3.44D-15 1.15D-15 4.80D-16 1.63D-16 3.07D-17 8.24D-18 1.05D-18 6.12D-20 8.50D-21 / total xsects.    (cm2)
+  n  l  m                                                                                   / partial xsects.  (cm2)
+  1        0.00D+00 2.30D-17 2.40D-17 9.78D-18 1.23D-18 8.24D-19 2.42D-19 2.70D-20 4.76D-21
+  1  0     0.00D+00 2.30D-17 2.40D-17 9.78D-18 1.23D-18 8.24D-19 2.42D-19 2.70D-20 4.76D-21
+  2        1.72D-15 6.21D-16 2.64D-16 6.36D-17 1.07D-17 3.05D-18 3.78D-19 1.78D-20 2.04D-21
+  2  0     5.09D-16 2.01D-16 9.20D-17 2.44D-17 4.56D-18 1.46D-18 2.08D-19 1.12D-20 1.39D-21
+  2  1     1.21D-15 4.20D-16 1.72D-16 3.92D-17 6.14D-18 1.59D-18 1.70D-19 6.56D-21 6.46D-22
+  3        8.60D-16 2.53D-16 9.60D-17 3.59D-17 7.06D-18 1.73D-18 1.79D-19 7.36D-21 7.65D-22
+  3  0     1.94D-16 6.64D-17 2.80D-17 1.19D-17 2.67D-18 7.48D-19 9.08D-20 4.37D-21 4.96D-22
+  3  1     4.61D-16 1.39D-16 5.24D-17 1.91D-17 3.59D-18 8.17D-19 7.45D-20 2.55D-21 2.30D-22
+  3  2     2.05D-16 4.80D-17 1.56D-17 4.86D-18 8.08D-19 1.65D-19 1.36D-20 4.35D-22 3.88D-23
+   -1   -1
+C-------------------------------------------------------------------------------------------
+C
+C DATA REFORMATTED TO NEW ADF01 FORMAT.
+C
+C INPUT DATA FILE : JETSHP.CHEXDATA.DATA(H1#HEXC1)
+C SUB-BLOCK USED  : 2
+C SUB-BLOCK TITLE :  COMPOSITE FOR CAPTURE FROM 2P  N'**2*E =1.0KEV/AMU - 700 KEV/AMU   H+1
+C
+C COMMENT RECORDS FROM INPUT DATA FILE ARE APPENDED BELOW.
+C
+C-------------------------------------------------------------------------------------------
+C ======================================================================
+C                  H(N>1) + H(1) --> H(+) + H
+C                  --------------------------
+C
+C      INFORMATION                               #1989 RESTRUCTURED DATA
+C      -----------
+C      IBLOCK=2
+C      --------
+C
+C      ENERGY    = 1.0D3 EV/AMU - 7.0D5 EV/AMU    (N'**2*E UNITS)
+C      N         = 1 - 4
+C      APPROX    = COMPOSITE
+C      REFERENCE = REINHOLD & MIRAGLIA (1987) J.PHYS.B. 20, 541.
+C                  EICHLER             (1981) PHYS. REV. A. 23, 498.
+C
+C      REMARKS
+C             CAPTURE FORM H(2P) ONLY.  COMPOSITE DATA BASED ON ABOVE
+C             REFERENCES.  NO DATA AVAILABLE ON HIGH N EXTRAPOLATION OR
+C             L-SUBSHELL SPLITTING.  A CHOICE OF ALPHA IS THE SAME AS
+C             THAT OF HE{+2} CAPTURE FROM H(1S).
+C             THE SUMMED XSECT. FROM 4 TO INFINITY HAS BEEN USED TO
+C             COMPUTE THE N=4 XSECT BASED ON EXTRAPOLATION FROM N=4
+C             WITH THE PREFERRED ALPHA.
+C
+C             LFORMA, XLCUTA, PL2A AND PL3A
+C                   THESE ARE THE SAME AS THE VALUES FOR HE{+2}+H(1S)
+C
+C                                             H.P. SUMMERS  20 FEB 1990
+C
+C=======================================================================
+C   L-SPLITTING IS RECONSTITUTED FROM THE JET N-SHELL RESOLUTION DATA 
+C   BLOCK USING  ITS L-SHELL FORM PARAMETERS.  THE DATA SET THUS EXACTLY
+C   MATCHES THE JET DATA SET IN APPLICATION.  NOTE THE L-SHELL FORM
+C   PARAMETERS ARE OPTIMIMISED AROUND THE N-SHELLS RESPONSIBLE FOR 
+C   VISIBLE LINE CHARGE EXCHANGE SPECTROSCOPY EMISSION.
+C
+C                                             H.P. SUMMERS  28 JULY 1995
+C-----------------------------------------------------------------------
+ 
+C---------------------------------------------------------------------------------
+C ADAS ADF01 DATA - SCCS info: @(#)$Header: /home/adascvs/adas/adf01/qcx#h0/qcx#h0_e2p#h1.dat,v 2.1 2004/07/06 21:14:25 whitefor Exp $ Date $Date: 2004/07/06 21:14:25 $
+C---------------------------------------------------------------------------------

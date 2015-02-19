@@ -1,0 +1,39 @@
+    1    /O   IONISATION RATE COEFFICIENTS   /
+O + 7/O + 8/   20/I.P. =          7026393.6/ICODE =  1/FCODE =  1/ISEL=   1
+ 7.000D+00 1.000D+01 1.500D+01 2.000D+01 3.000D+01 4.000D+01
+ 5.000D+01 7.000D+01 1.000D+02 1.500D+02 2.000D+02 3.000D+02
+ 4.000D+02 5.000D+02 7.000D+02 1.000D+03 2.000D+03 4.000D+03
+ 5.000D+03 1.000D+04
+ 8.007D-66 1.579D-49 7.918D-37 1.845D-30 4.538D-24 7.388D-21
+ 6.380D-19 1.007D-16 5.243D-15 1.125D-13 5.342D-13 2.614D-12
+ 5.881D-12 9.645D-12 1.714D-11 2.657D-11 4.438D-11 5.603D-11
+ 5.810D-11 5.992D-11
+C-----------------------------------------------------------------------
+C
+C  ELECTRON IMPACT IONISATION RATE COEFFICIENT LIST:
+C
+C   ISEL  INITIAL MET.    FINAL  MET.           SOURCE
+C           ION   CODE     ION   CODE
+C   ----  ------- ----   ------- ----     ------------------------------
+C     1   O + 7    1     O + 8    1       *BELL ET AL. (1982) CLM-R216
+C
+C         PREFERRED DATA INDICATED BY *
+C         ARTIFICIAL DATA SET TO ZERO INDICATED BY #
+C
+C  NOTES.
+C ------
+C
+C   ISEL  INITIAL MET.    DESIG.             FINAL  MET.    DESIG.
+C           ION   CODE                        ION   CODE
+C   ----  ------- ---- ---------------      ------- ---- ---------------
+C     1   O + 7    1     1S  (2S)            O + 8    1     *  (1S)
+C
+C
+C       WILLIAM J. DICKSON   12TH MAY 1992  (NO.S 50-57)
+C                            26TH MAR 1993  (NO.S 1 -31)  BCHIDO
+C                             9TH MAR 1993  (NO.S 32-49)  BCHIDO
+C-----------------------------------------------------------------------
+ 
+C---------------------------------------------------------------------------------
+C ADAS ADF07 DATA - SCCS info: @(#)$Header: /u/xshare/Attic/repos/codesys/source/adas/data/adf07/szd93#o/szd93#o_o7.dat,v 1.1 2009-07-30 05:49:23 Marina Gorelenkova Exp $ Date $Date: 2009-07-30 05:49:23 $
+C---------------------------------------------------------------------------------

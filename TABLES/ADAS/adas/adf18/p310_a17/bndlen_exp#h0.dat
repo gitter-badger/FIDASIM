@@ -1,0 +1,28 @@
+ &SEQINF SEQ='H',REFMEM=' ',NPARNT=1,NSHEL=4,NLEV=4,&END
+ 
+       PARENT      :(1S)       :           :           :           :
+       SPINPRT     :1          :           :           :           :
+       NSPNSYS     :1          :           :           :           :
+       NCUTP       :120        :           :           :           :
+ 
+       SHELLS      :1          :2          :3          :4          :
+ 
+    PARENT =  1
+    -----------
+       SPINSYS     :2          :           :           :           :
+       LOWESTN     :1          :           :           :           :
+       LOWESTP     :1.0        :           :           :           :
+ 
+ 
+ RESOLVED NL <-- BUNDLE-N                 N:1     N:2     N:3     N:4     N:
+ 
+INDX CODE                     SP SH PT   N-SHELL NORMALISED WEIGHTS
+---- ----                     -- -- --   --------------------------
+  1  1N            (2)0( 0.5)  2  1  1  : 1.0   : 0.0   : 0.0   : 0.0   :
+  2  2N            (2)0( 3.5)  2  2  1  : 0.0   : 1.0   : 0.0   : 0.0   :
+  3  3N            (2)0( 8.5)  2  3  1  : 0.0   : 0.0   : 1.0   : 0.0   :
+  4  4N            (2)0(15.5)  2  4  1  : 0.0   : 0.0   : 0.0   : 1.0   :
+ 
+C---------------------------------------------------------------------------------
+C ADAS ADF18 DATA - SCCS info: @(#)$Header: /home/adascvs/adas/adf18/p310_a17/bndlen_exp#h0.dat,v 2.1 2004/07/07 01:36:23 whitefor Exp $ Date $Date: 2004/07/07 01:36:23 $
+C---------------------------------------------------------------------------------
