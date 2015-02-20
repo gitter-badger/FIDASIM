@@ -35,16 +35,13 @@ PRO jet_routines,inputs,grid,$     ;;INPUT: INPUTS AND GRID POINTS DO NOT CHANGE
     equil = jet_equil(inputs,grid,chords)
 
     ;; Get beam stuff
-	einj = 80.0 ;;keV
+	einj = 98.779 ;;keV
 	pinj = 2.0  ;;MW
 
 	;;GET SPECIES_MIX
-    cgfitf=[-0.109171,0.0144685,-7.83224e-5]
-    cgfith=[0.0841037,0.00255160,-7.42683e-8]
 
-    ;; Current fractions
-    ffracs=cgfitf[0]+cgfitf[1]*einj+cgfitf[2]*(einj)^2
-    hfracs=cgfith[0]+cgfith[1]*einj+cgfith[2]*(einj)^2
+    ffracs=0.3121
+    hfracs=0.3598
     tfracs=1.0-ffracs-hfracs
 
 	nbi={einj:einj,$				   		;;BEAM INJECTION ENERGY [keV]
