@@ -21,9 +21,9 @@ PRO jet_routines,inputs,grid,$     ;;INPUT: INPUTS AND GRID POINTS DO NOT CHANGE
 	chords={sigma_pi_ratio:[1.0],$	;;RATIO OF SIGMA LINES TO PI LINES  (0 IF NPA)
 	nchan:1,$				  		;;NUMBER OF CHANNELS
 	chan_id:[0] ,$                  ;;CHANNEL ID (0 FOR FIDA,1 FOR NPA)
-	xmid:[335.55],$						;;X POS. OF WHERE CHORD CROSSES MIDPLANE [cm]
-	ymid:[-40.93704],$						;;Y POS. OF WHERE CHORD CROSSES MIDPLANE [cm]
-	zmid:[23.64986],$						;;Z POS. OF WHERE CHORD CROSSES MIDPLANE [cm]
+	xlos:[335.55],$						;;X POS. OF WHERE CHORD CROSSES MIDPLANE [cm]
+	ylos:[-40.93704],$						;;Y POS. OF WHERE CHORD CROSSES MIDPLANE [cm]
+	zlos:[23.64986],$						;;Z POS. OF WHERE CHORD CROSSES MIDPLANE [cm]
 	xlens:[428.58],$						;;X POS. OF LENS/APERTURE [cm]
 	ylens:[-85.06495],$						;;Y POS. OF LENS/APERTURE [cm]
 	zlens:[28.0],$						;;Z POS. OF LENS/APERTURE [cm]
@@ -55,8 +55,8 @@ PRO jet_routines,inputs,grid,$     ;;INPUT: INPUTS AND GRID POINTS DO NOT CHANGE
 		 bmwidza:11.97851,$			   		;;VERTICAL BEAM WIDTH   [cm]
 		 focy:999999.9,$				   		;;HORIZONTAL FOCAL LENGTH [cm]
 	     focz:999999.9,$						;;VERTICAL FOCAL LENGTH [cm]
-		 divy:0.0,$				   		;;HORIZONTAL BEAM DIVERGENCE [rad]
-		 divz:0.0 }				   		;;VERTICAL BEAM DIVERGENCE [rad]
+		 divy:dblarr(3),$				   		;;HORIZONTAL BEAM DIVERGENCE [rad]
+		 divz:dblarr(3) }				   		;;VERTICAL BEAM DIVERGENCE [rad]
 
 
 END

@@ -16,13 +16,13 @@ shot=84408L                                            ;; Shot Number
 time=48.7                                              ;; Time
 runid='SRS_BENCH'                                       ;; runid of FIDASIM
 device='JET'                                            ;; D3D,NSTX,AUGD,MAST
-result_dir='/home/lstagner/Desktop/SRS_BENCH/'           ;; Location where results will be stored /RESULTS/runid will be made
-profile_dir='/home/lstagner/FIDASIM/JET/'                     ;; Location of profile save files. EX: profile_dir+'shot/'+'dne142353.00505'
+result_dir='/u/stagnerl/FIDA/SRS_BENCH/'           ;; Location where results will be stored /RESULTS/runid will be made
+profile_dir='/u/stagnerl/FIDASIM/JET/'                     ;; Location of profile save files. EX: profile_dir+'shot/'+'dne142353.00505'
 
 ;;----------------------------------------------------
 ;; Fast-ion distribution function from transp
 ;;----------------------------------------------------
-cdf_file=''   ;; CDF file from transp with the distribution funciton
+cdf_file='/u/stagnerl/FIDASIM/JET/test_dist.cdf'   ;; CDF file from transp with the distribution funciton
 
 emin=0.                                                      ;; Minimum energy used from the distribution function
 emax=100.                                                    ;; Maximum energy used from the distribution function
@@ -42,7 +42,7 @@ equil=''                                          ;; Name of equilibrium. Ex. fo
 ;;-----------------------------------------------------
 ;; Discharge Parameters
 ;;-----------------------------------------------------
-btipsign=-1.d0                                          ;; Bt and Ip are in the opposite direction
+btipsign=1.d0                                          ;; Bt and Ip are in the opposite direction
 ab=2.01410178d0                                         ;; Atomic mass of beam [u]
 ai=2.01410178d0                                         ;; Atomic mass of hydrogenic plasma ions [u]
 impurity_charge=6                                       ;; 5: BORON, 6: carbon, 7: Nitrogen
@@ -58,20 +58,20 @@ dlambda= (lambdamax-lambdamin)/double(nlambda)          ;; Wavelength seperation
 ;;---------------------------------------------------
 ;; Define FIDASIM grid in machine coordinates(x,y,z)
 ;;---------------------------------------------------
-nx=40               ;; Number of cells in x direction
-ny=60               ;; Number of cells in y direction
+nx=60               ;; Number of cells in x direction
+ny=40              ;; Number of cells in y direction
 nz=50               ;; Number of cells in z direction
-xmin=-170.         ;; Minimum x value
-xmax=-70.          ;; Maximum x value
-ymin=-195.         ;; Minimum y value
-ymax=-80.          ;; Maximum y value
-zmin=-70.          ;; Minimum z value
+xmin=80.         ;; Minimum x value
+xmax=200.          ;; Maximum x value
+ymin=-40.         ;; Minimum y value
+ymax=40.          ;; Maximum y value
+zmin=-30.          ;; Minimum z value
 zmax=70.           ;; Maximum z value
 
-origin=[0.,0.,0.]   ;; If using different a coordinate system, this is the origin
-                    ;; in machine coordinates of the new system
+origin=[472.3,-2.5,0.0];[0.0,0.0,0.0]   ;; If using different a coordinate system, this is the origin
+                          ;; in machine coordinates of the new system
 
-alpha=0.0           ;; Rotation angle in radians from +x about z axis that transforms machine
+alpha=(360-344.3)*!DPI/180.0 -!DPI           ;; Rotation angle in radians from +x about z axis that transforms machine
                     ;; coordinates to the new system.
 beta=0.0            ;; Rotation about +y axis
 ;;--------------------------------------------------
@@ -103,7 +103,7 @@ calc_brems=[0]                                          ;; (0 or 1) If 0 use the
 calc_fida_wght=[1]                                      ;; (0 or 1) If 1 then fida weight functions are calculated
 calc_npa_wght=[0]                                       ;; (0 or 1) If 1 then npa weight functions are calculated
 load_neutrals=[0]                                       ;; (0 or 1) If 1 then the neutral density is loaded from an existing run
-load_fbm=[0]                                            ;; (0 or 1) If 1 then the fbm is loaded (calc_spec/npa overwrites)
+load_fbm=[1]                                            ;; (0 or 1) If 1 then the fbm is loaded (calc_spec/npa overwrites)
 interactive=[0]                                         ;; (0 or 1) If 1 then percent complete is shown
 
 ;;------------------------------------------------
